@@ -1,0 +1,10 @@
+K:\hello\bin\Debug\netcoreapp2.0\hello.deps.json
+K:\hello\bin\Debug\netcoreapp2.0\hello.runtimeconfig.json
+K:\hello\bin\Debug\netcoreapp2.0\hello.runtimeconfig.dev.json
+K:\hello\bin\Debug\netcoreapp2.0\hello.dll
+K:\hello\bin\Debug\netcoreapp2.0\hello.pdb
+K:\hello\obj\Debug\netcoreapp2.0\hello.csproj.CoreCompileInputs.cache
+K:\hello\obj\Debug\netcoreapp2.0\hello.AssemblyInfoInputs.cache
+K:\hello\obj\Debug\netcoreapp2.0\hello.AssemblyInfo.cs
+K:\hello\obj\Debug\netcoreapp2.0\hello.dll
+K:\hello\obj\Debug\netcoreapp2.0\hello.pdb
